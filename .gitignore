@@ -1,0 +1,8 @@
+_ext.cpython-37m-x86_64-linux-gnu.so
+runs/
+build/
+model/new/
+model/newnew/
+model/__pycache__/
+
+*.h5
